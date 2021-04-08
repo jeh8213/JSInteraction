@@ -1,0 +1,11 @@
+html{
+  background-color: white;
+}
+label{
+  font-size:200%;
+  font-family: fantasy;
+  color : black;
+}
+button{
+  color: blue;
+}
